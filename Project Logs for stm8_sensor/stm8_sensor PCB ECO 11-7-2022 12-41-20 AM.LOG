@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=RX Pin=C15-1
+Removed Pin From Net: NetName=TX Pin=C15-2
+Added Pin To Net: NetName=TX Pin=C15-1
+Added Pin To Net: NetName=RX Pin=C15-2
+Added Room: Name=stm8_sensor

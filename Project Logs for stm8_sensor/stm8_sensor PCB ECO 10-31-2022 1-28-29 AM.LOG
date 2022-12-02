@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=NRST Pin=HD1-1
+Removed Pin From Net: NetName=SWIM Pin=HD1-2
+Removed Pin From Net: NetName=GND Pin=HD1-3
+Removed Pin From Net: NetName=+5V Pin=HD1-4
+Removed Pin From Net: NetName=RX Pin=HD2-1
+Removed Pin From Net: NetName=TX Pin=HD2-2
+Removed Pin From Net: NetName=GND Pin=HD2-3
+Removed Member From Class: ClassName=stm8_sensor Member=HD1
+Removed Member From Class: ClassName=stm8_sensor Member=HD2
+Added Component: Designator=C14(Header4)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Added Component: Designator=C15(Header3)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NRST Pin=C14-1
+Added Pin To Net: NetName=SWIM Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C14-3
+Added Pin To Net: NetName=+5V Pin=C14-4
+Added Pin To Net: NetName=RX Pin=C15-1
+Added Pin To Net: NetName=TX Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C15-3
+Added Member To Class: ClassName=stm8_sensor Member=Component * Jump1_2.54
+Added Member To Class: ClassName=stm8_sensor Member=Component * Jump1_2.54
+Added Member To Class: ClassName=stm8_sensor Member=Component * Jump1_2.54
+Added Member To Class: ClassName=stm8_sensor Member=Component * Jump1_2.54
+Added Member To Class: ClassName=stm8_sensor Member=Component C14 Header4
+Added Member To Class: ClassName=stm8_sensor Member=Component C15 Header3
+Added Room: Name=stm8_sensor

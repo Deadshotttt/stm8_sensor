@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator=* NewDesignator=AIN3
+Change Component Designator: OldDesignator=* NewDesignator=IP+
+Change Component Designator: OldDesignator=* NewDesignator=IP-
+Change Component Designator: OldDesignator=* NewDesignator=Vin
+Change Component Designator: OldDesignator=* NewDesignator=Vref
+Change Net Name : Old Net Name=Net*_1 New Net Name=NetR14_2
+Added Pin To Net: NetName=NetIP+_1 Pin=IP+-1
+Added Pin To Net: NetName=NetIP+_1 Pin=U3-1
+Added Pin To Net: NetName=NetIP+_1 Pin=U3-2
+Added Net: Name=NetIP+_1
+Added Pin To Net: NetName=NetIP-_1 Pin=IP--1
+Added Pin To Net: NetName=NetIP-_1 Pin=U3-3
+Added Pin To Net: NetName=NetIP-_1 Pin=U3-4
+Added Net: Name=NetIP-_1
+Added Member To Class: ClassName=stm8_sensor Member=Component AIN3 Jump1_2.54
+Added Member To Class: ClassName=stm8_sensor Member=Component IP+ Jump1_2.54
+Added Member To Class: ClassName=stm8_sensor Member=Component IP- Jump1_2.54
+Added Member To Class: ClassName=stm8_sensor Member=Component R3 R0805
+Added Member To Class: ClassName=stm8_sensor Member=Component R4 R0805
+Added Member To Class: ClassName=stm8_sensor Member=Component Vin Jump1_2.54
+Added Room: Name=stm8_sensor

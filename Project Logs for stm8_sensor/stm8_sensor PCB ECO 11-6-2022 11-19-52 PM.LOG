@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=Vref Pin=A1-1
+Removed Pin From Net: NetName=Vref Pin=A1-2
+Removed Pin From Net: NetName=+2.5V Pin=A1-3
+Removed Pin From Net: NetName=GND Pin=A1-4
+Removed Pin From Net: NetName=VOL Pin=A1-5
+Removed Pin From Net: NetName=AIN3 Pin=A1-6
+Removed Pin From Net: NetName=AIN3 Pin=A1-7
+Removed Pin From Net: NetName=+5V Pin=A1-8
+Removed Member From Class: ClassName=stm8_sensor Member=A1
+Added Component: Designator=A?(LM358_SOIC)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000609"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "LM358 SOP8"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vref Pin=A?-1
+Added Pin To Net: NetName=Vref Pin=A?-2
+Added Pin To Net: NetName=+2.5V Pin=A?-3
+Added Pin To Net: NetName=GND Pin=A?-4
+Added Pin To Net: NetName=VOL Pin=A?-5
+Added Pin To Net: NetName=AIN3 Pin=A?-6
+Added Pin To Net: NetName=AIN3 Pin=A?-7
+Added Pin To Net: NetName=+5V Pin=A?-8
+Added Member To Class: ClassName=stm8_sensor Member=Component A? LM358 SOP8
+Added Room: Name=stm8_sensor

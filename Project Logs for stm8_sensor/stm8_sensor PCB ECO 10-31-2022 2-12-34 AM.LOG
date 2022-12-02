@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=C5 Old Footprint=CAP_ALUMINUM_J16 New Footprint=tu tantalum smd7343
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAP_ALUMINUM_J16"; UniqueID = "\CKIQQXEK" ("\CKIQQXEK")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH002346"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? tantalum 107C-100uF 16V SMD7343"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=stm8_sensor Member=Component Vref Jump1_2.54
+Added Room: Name=stm8_sensor

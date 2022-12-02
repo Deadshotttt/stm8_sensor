@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=C5 Old Footprint=tu tantalum smd7343 New Footprint=tu tantalum smd3216
+Change Component Comment : Designator=C5 Old Comment=100uF New Comment=100uF-16V
+Change component parameters: Designator = "C5" ("C5"); Footprint = "tu tantalum smd7343"; UniqueID = "\LNRBIZIX" ("\LNRBIZIX")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH007471"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? tantalum 105V-1uF 35V SMD3216"; VariantName = "[No Variations]"
